@@ -3,4 +3,4 @@ This is a (at least for now) temporary Wiki for all modders of ContractorsVR to 
 
 If you need access, best let me know on the ContractorsVR Discord in the mod-general channel.
 
-To access the wiki please click on the Wiki tab above.
+To access the wiki please click on the Wiki tab above or click here: <https://github.com/swOOnkCS/ContractorsVRModding/wiki>
